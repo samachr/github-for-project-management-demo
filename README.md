@@ -2,10 +2,10 @@
 
 Github can be an effective tool for agile project management.
 
-Project (Sprint)
+Project
 ====
 
-A sprint is mapped to an organization level project. The sprint contains work we commit to get done during each two week period. To do and in progress are pretty straightforward -- they do what they say they do.
+A the work in a sprint is mapped to an organization level project. The sprint contains work we commit to get done during each two week period. To do and in progress are pretty straightforward -- they do what they say they do.
 
 Definition of Done
 ==
