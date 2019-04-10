@@ -1,6 +1,6 @@
 # github-for-project-management-demo
 
-Github is pretty good for scrum project management.
+Github can be an effective tool for agile project management.
 
 Project (Sprint)
 ====
