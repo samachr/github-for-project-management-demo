@@ -9,4 +9,4 @@ A sprint is mapped to an organization level project. The sprint contains work we
 
 Definition of Done
 ==
-Issues cannot move to done without an approved code review, merge into master, and released. This ensures that no work is drifting between sprints and creating hidden work. We will be dependable and release intentionally.
+Issues cannot move to done without an approved code review, merge into master, and released. This ensures that no work is drifting between sprints and creating hidden work. The greatest value here will be increased dependability of the development team.
